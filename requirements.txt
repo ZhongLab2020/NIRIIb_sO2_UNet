@@ -1,0 +1,8 @@
+torch
+torchvision
+albumentations
+tifffile
+matplotlib
+numpy
+scikit-image
+tqdm
