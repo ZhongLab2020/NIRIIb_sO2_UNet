@@ -10,6 +10,7 @@ This repository contains code for training a U-Net model to segment intestinal v
 - Compatible with NIR-IIb imaging experiments
 
 ## Folder Structure
+.
 ├── model.py # U-Net definition
 ├── train.py # Training script
 ├── dataset.py # Data loader
