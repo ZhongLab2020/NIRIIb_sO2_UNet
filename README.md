@@ -11,10 +11,15 @@ This repository contains code for training a U-Net model to segment intestinal v
 
 ## Folder Structure
 ├── model.py # U-Net definition
+
 ├── train.py # Training script
+
 ├── dataset.py # Data loader
+
 ├── utils.py # Helper functions
+
 ├── gut (closed + opened belly)_images_train/ # input train TIFFs
+
 ├── gut (closed + opened belly)_images_val/ # input validation TIFFs
 ├── gut (closed + opened belly)_masks_train/ # mask train TIFFs
 ├── gut (closed + opened belly)_masks_val/ # mask validation TIFFs
