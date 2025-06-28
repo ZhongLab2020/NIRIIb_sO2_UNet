@@ -18,6 +18,8 @@ This repository contains code for training a U-Net model to segment intestinal v
 
 ├── utils.py # Helper functions
 
+├── apply.py # Apply U-Net
+
 ├── gut (closed + opened belly)_images_train/ # input train TIFFs
 
 ├── gut (closed + opened belly)_images_val/ # input validation TIFFs
