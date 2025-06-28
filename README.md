@@ -21,9 +21,13 @@ This repository contains code for training a U-Net model to segment intestinal v
 ├── gut (closed + opened belly)_images_train/ # input train TIFFs
 
 ├── gut (closed + opened belly)_images_val/ # input validation TIFFs
+
 ├── gut (closed + opened belly)_masks_train/ # mask train TIFFs
+
 ├── gut (closed + opened belly)_masks_val/ # mask validation TIFFs
+
 ├── requirements.txt # Dependencies
+
 ├── README.md # This file
 
 ## Setup
