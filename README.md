@@ -1,6 +1,6 @@
 # Deep Learning-Assisted NIR-IIb sO₂ Imaging
 
-This repository contains code for training a U-Net model to segment intestinal vasculature in near-infrared IIb (NIR-IIb; 1500-1700 nm) images, and reconstruct blood oxygen saturation (sO₂) maps from dual-excitation imaging data.
+This repository contains code for training a U-Net model to segment intestinal vasculature in near-infrared IIb (NIR-IIb; 1500-1700 nm) images, and reconstruct blood oxyhemoglobin saturation (sO₂) maps from dual-excitation imaging data.
 
 ## Features
 - U-Net-based segmentation of vascular structures
