@@ -7,9 +7,9 @@ from tqdm import tqdm
 from model import UNet
 
 # parameters
-input_path_global = 'D:/PycharmProjects/Practical_Dataset/input/GutMicro3.tif'  # Input TIFF
+input_path_global = 'D:/PycharmProjects/Practical_Dataset/input/Gut3.tif'  # Input TIFF
 model_path_global = 'NIR_UNet.pth'  # Pretrained model path
-output_path_global = 'D:/PycharmProjects/Practical_Dataset/output/GutMicro3.tif'  # Output TIFF
+output_path_global = 'D:/PycharmProjects/Practical_Dataset/output/Gut3.tif'  # Output TIFF
 device_global = 'cuda'  # 'cuda' if torch.cuda.is_available() else 'cpu'
 
 
